@@ -9,7 +9,6 @@ void main() {
     MultiProvider(
       providers: [
         ChangeNotifierProvider(create: (context) => HomeProvider(),),
-        // ChangeNotifierProvider(create: (context) => BottomProvider(),),
       ],
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
