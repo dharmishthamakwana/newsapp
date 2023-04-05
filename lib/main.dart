@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:untitled17/screen/provider/home_provider.dart';
-import 'package:untitled17/view/home_Screen.dart';
-import 'package:untitled17/view/second_screen.dart';
+import 'package:untitled17/screen/view/home_Screen.dart';
+import 'package:untitled17/screen/view/second_screen.dart';
 
 void main() {
   runApp(
